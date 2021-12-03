@@ -62,7 +62,7 @@ class VolumeChartOptions extends ChartOptions {
 final List<ChartOptions> charts;
 ```
 
-渲染的时候
+渲染的时候：
 
 ```dart
 final charts = widget.charts.map((options) {
